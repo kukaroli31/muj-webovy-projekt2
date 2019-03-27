@@ -10,7 +10,7 @@ Stránky by vyhledávali uživatelům kde najít levné letenky, lístky na vlak
 
 Poskytovala by informace a rady od cestovatelů, nabízela by diskuze kde si lidé radí různé místa a vhodné destinace, které se dají snadno navštívit. Dále poskytování referencí videa a fotografie od uživatelů uživatelům.
 
-## Zdroje
+#### Zdroje
 
 https://www.novinky.cz/finance/478547-jak-si-zajistit-dovolenou-za-hubicku.html
 
