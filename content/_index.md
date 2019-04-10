@@ -21,3 +21,4 @@ http://www.asociacedice.cz/2016/08/04/galllery-post/
 https://cestujzababku.cz
 
  # KONEC
+o co go?
