@@ -1,4 +1,5 @@
 ---
+<<<<<<< Updated upstream
 title: Low Cost Cestování 
 
 ---
@@ -41,6 +42,14 @@ Strategie zveřejňování obsahu:
 Projekt poběží 8 týdnů, takže bych každý ten týden udělala prostě část toho webu. Zaměříme se postupně na ty kapitoly, jak jsem napsala v obsahu ne? :D Nebo aspoň bych to rozčlenila asi do takových kapitol a v každé prostě něco zveřejníme – text, obrázky, videa nebo různé knihy, někdy třeba jen text prostě podle toho o čem ta kapitola zrovna bude. 
 -	Tohle tam nějak hezky podle sebe sepíšete, jste šikovné :D
 </p>
+=======
+title: About
+menu:
+  main:
+    weight: 30
+---
+
+>>>>>>> Stashed changes
 This is a minimal [Hugo][] website created for a course [VIKBA07][].
 
 Learn more about Hugo with a [quick start guide][qs] or by exploring its [documentation][hugoDocs].

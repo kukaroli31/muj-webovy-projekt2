@@ -1,9 +1,5 @@
-<<<<<<< Updated upstream
-title: Jak obletět svět za rozumnou cenu
-=======
-title: Projekt 1 KK
->>>>>>> Stashed changes
-baseURL: https://determined-gates-94ba5d.netlify.com
+title: Projekt 2 KK
+baseURL: https://xyz.netlify.com/
 languageCode: cs-cz
 publishDir: public
 
