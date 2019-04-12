@@ -16,7 +16,10 @@ menu:
       identifier: post
       url: /post/
       weight: 20
-
+    - name: About
+      identifier: post
+      url: /post/
+      weight: 20
 params:
   description: Description of my new site.
   authors: Authors
