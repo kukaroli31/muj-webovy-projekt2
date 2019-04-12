@@ -17,8 +17,8 @@ menu:
       url: /post/
       weight: 20
     - name: About
-      identifier: post
-      url: /post/
+      identifier: content
+      url: /content/
       weight: 20
 params:
   description: Description of my new site.
