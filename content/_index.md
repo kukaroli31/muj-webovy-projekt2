@@ -50,5 +50,3 @@ This are the contents of the Hugo start website front page.
 > Save that, to die, I leave my love alone.*
 > 
 > William Shakespeare
-
->>>>>>> Stashed changes
