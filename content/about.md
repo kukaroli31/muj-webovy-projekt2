@@ -1,7 +1,8 @@
 ---
 <<<<<<< Updated upstream
 title: Low Cost Cestování 
-
+menu:
+  main:
 ---
 Název: Low Cost Cestování 
 <p>Cílová skupina:  Mladí lidé 20-30 let, kteří studují nebo dostudovali a chtějí levně procestovat svět než se usadí </p>
