@@ -1,5 +1,4 @@
 ---
-<<<<<<< Updated upstream
 title: Jak obletět svět za rozumnou cenu
 ---
 
