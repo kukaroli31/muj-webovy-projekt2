@@ -3,7 +3,7 @@
 title: Jak obletět svět za rozumnou cenu
 ---
 
-# Jak zprostředkovat cestování i lidem s mesnšími prostředky za rozumnou cenu, ale přesto kvalitní dovolenou/výlet.
+# Jak zprostředkovat cestování i lidem s menšími prostředky za rozumnou cenu, ale přesto kvalitní dovolenou/výlet.
 
 Chtěla bych navrhnout a vymyslet stránky, které radí lidem s nižším rozpočtem jak kvalitně cestovat. Poskytnout informace o last minute, jak cestovat na vlastní pěst.
 
